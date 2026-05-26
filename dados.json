@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-26T00:54:41.957843",
-  "preco": 76668.01,
+  "timestamp": "2026-05-26T00:55:23.019006",
+  "preco": 76664.0,
   "saldo_usdt": 10000.0,
   "saldo_btc": 0.0,
   "saldo_total": 10000.0,
@@ -9,7 +9,7 @@
   "preco_compra": null,
   "stop_price": null,
   "target_price": null,
-  "score_buy": 4.5,
+  "score_buy": 4.0,
   "score_sell": 3.5,
   "regime": "lateral",
   "fear_greed": 34,
