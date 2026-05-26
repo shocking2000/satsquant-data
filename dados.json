@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-26T10:01:16.699777",
-  "preco": 77130.01,
+  "timestamp": "2026-05-26T10:01:55.063260",
+  "preco": 77130.0,
   "saldo_usdt": 0.0,
   "saldo_btc": 0.13045974,
   "saldo_total": 10062.36,
@@ -9,7 +9,7 @@
   "preco_compra": 76652.0,
   "stop_price": 76161.4272,
   "target_price": 79411.47200000001,
-  "score_buy": 1.5,
+  "score_buy": 3.0,
   "score_sell": 2.5,
   "regime": "oscilacao",
   "fear_greed": 34,
